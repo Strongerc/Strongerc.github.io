@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "4a7565a81f822f4559c1fc57c5e5c320"
+    "revision": "b8e6889d85b2b6219e2d7c663d973d07"
   },
   {
     "url": "assets/css/0.styles.35c4c317.css",
@@ -130,8 +130,8 @@ self.__precacheManifest = [
     "revision": "c4c910edfa317107af90016b6bcd3bf3"
   },
   {
-    "url": "assets/js/app.3cbfda9d.js",
-    "revision": "584e5771a40475f133c04507c7ff5cc4"
+    "url": "assets/js/app.1f801f89.js",
+    "revision": "bb435d9d2f2a4226cb1d1f1cf19558d0"
   },
   {
     "url": "assets/js/baidu.js",
@@ -143,15 +143,15 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "5ba7595b3756ff4817e0849ec5d8d418"
+    "revision": "ff39dbeada38a05877231521cd42a6ec"
   },
   {
     "url": "categories/typora/index.html",
-    "revision": "084afc42393e1c60f14f54bd6f9fc620"
+    "revision": "cd8d4661697a48d7cf2b4fa5accb0cee"
   },
   {
     "url": "categories/vuepress/index.html",
-    "revision": "e7d8ee385ce68c126e10f8336e9c33ed"
+    "revision": "1c27cc42506673122c2e748397241841"
   },
   {
     "url": "hero_white.png",
@@ -183,7 +183,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "fa2c4a5f379b4d666bf27cab88b78771"
+    "revision": "640a82b445c64af4e9cf9fb8513d1266"
   },
   {
     "url": "js/custom.js",
@@ -191,39 +191,39 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/index.html",
-    "revision": "0f3ec9f24eb67db1b2a73211cab1761c"
+    "revision": "8b518260c87043d114932fc5cc48e20a"
   },
   {
     "url": "tag/typora/index.html",
-    "revision": "54bb59f3d371702db4448ce658099342"
+    "revision": "0dc307da749a991460e888f7a595a540"
   },
   {
     "url": "tag/vuepress/index.html",
-    "revision": "5cda8670e5e30fd3bb4d8bd1aa1d000b"
+    "revision": "c730274e435e5c3bf2e41373ce32a8ae"
   },
   {
     "url": "timeline/index.html",
-    "revision": "1207b1dc5d55cc33d4a74e70826ca219"
+    "revision": "d739cd7e8148fd18cd2400e6ff5bbc71"
   },
   {
     "url": "我的文章/typora/安装pandoc.html",
-    "revision": "b528fc5112a8b61f48ace6806fcd873b"
+    "revision": "d8ea5b33283abfe7f297a2e8b2223a0a"
   },
   {
     "url": "我的文章/vuepress/侧边栏.html",
-    "revision": "534379c09cec1e760b8c1cea1d0ec544"
+    "revision": "ce9252ae202be4755f0ff70bfe4e2440"
   },
   {
     "url": "我的文章/vuepress/图片显示.html",
-    "revision": "48342b2e3a83db8213c9fc83098a9d6a"
+    "revision": "02df3ec1bd5591202d51a4230e5c120e"
   },
   {
     "url": "我的文章/vuepress/官方插件使用.html",
-    "revision": "7392cd086b5934efe512c84319806dba"
+    "revision": "9cd6189fca3f54c3131f717ffaeaeac0"
   },
   {
     "url": "我的文章/vuepress/插件看板娘.html",
-    "revision": "0c02f6aea2c200926effc2a65bfb8452"
+    "revision": "c3b7053aef8e2f52c58d43918c703180"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
